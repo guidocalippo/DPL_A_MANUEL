@@ -5,4 +5,4 @@ la Cruz")
 
 ![logo](src/mrrobot.png)
 
-### Repositorio para la asignatura DPL :heavy_check_mark: :fire:	
+### :heavy_check_mark: :fire: Repositorio para el curso DPL :heavy_check_mark: :fire:	
