@@ -55,11 +55,12 @@
 
 ![repositorios](src/star.png)
 
-| Nombre | Github                                     |
-|--------|--------------------------------------------|
-| Jorge  | [Enlace](https://github.com/Jorgeev27)     |
-| Hector | [Enlace](https://github.com/Earthlander28) |
-| Cristo | [Enlace](https://github.com/CristoJGM2612) |
-| Guido  | [Enlace](https://github.com/guidocalippo)  |
+| Nombre  | Github                                      |
+|---------|--------------------------------------------|
+| Jorge   | [Enlace](https://github.com/Jorgeev27)     |
+| Hector  | [Enlace](https://github.com/Earthlander28) |
+| Cristo  | [Enlace](https://github.com/CristoJGM2612) |
+| Estanis | [Enlace](https://github.com/dawestanis)    |
+| Guido   | [Enlace](https://github.com/guidocalippo)  |
 
 
